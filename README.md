@@ -1,4 +1,6 @@
-# criando-um-ebook-chatgpt-midjourney
+<p align="center">
+  <img src="banner-criando-um-ebook-chatgpt-midjourney.png" alt="Criando um E-book com ChatGPT e Midjourney Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-AI%20Engineer-success?style=for-the-badge&logo=git" alt="Status">
@@ -8,6 +10,27 @@
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
 </p>
 
+# criando-um-ebook-chatgpt-midjourney
+
+> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
+> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
+
 ![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
 
-Projeto de criação de e-book utilizando ChatGPT e Midjourney
+Projeto de criação de e-book utilizando Inteligência Artificial generativa por meio de integração entre ChatGPT e Midjourney, focado em engenharia de prompt, estruturação de conteúdo e design visual avançado.
+
+---
+
+## Autor
+
+**Rafael Ornelas Tozato**
+
+Engenharia Química | Garantia da Qualidade | Governança 4.0
+
+### Contato
+
+- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- DIO: [web.dio.me/users/ornelas_tozato](https://web.dio.me/users/ornelas_tozato)
+- 
