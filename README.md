@@ -19,29 +19,25 @@
 
 Projeto de criação de e-book utilizando Inteligência Artificial generativa por meio de integração entre ChatGPT e Midjourney, focado em engenharia de prompt, estruturação de conteúdo e design visual avançado.
 
----
-
 ## Autor
 
 **Rafael Ornelas Tozato**
 
 Engenharia Química | Garantia da Qualidade | Governança 4.0
 
-## 💻 PROJETOS E PORTFÓLIOS
-- **App Ecosystem:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+## 📬 CONTATOS E PERFIS
 
-## 🐙 CÓDIGO E REPOSITÓRIOS
-- **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
-## ✍️ ARTIGOS E PUBLICAÇÕES
-- **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-## 🪟 MICROSOFT LEARN
-- **Perfil:** [rafaelornelastozato-2209](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209)
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
 
-## 📬 CONTATOS
-- **E-mail:** ornelas.tozato@gmail.com
-- **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
